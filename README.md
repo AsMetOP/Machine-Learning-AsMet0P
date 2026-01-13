@@ -1,7 +1,7 @@
 # 📘 Machine Learning Journey w/ AsMet0P
 
 Welcome! 👋  
-This repository documents my **Machine Learning learning journey**, aligned with the **100 Days of Machine Learning by CampusX**.  
+This repository documents my **Machine Learning learning journey**.  
 It contains **structured notes, concept explanations, algorithm implementations from scratch, experiments, and practice work** as I build a strong foundation in Machine Learning.
 
 The goal of this repository is **conceptual clarity + hands-on implementation**.
