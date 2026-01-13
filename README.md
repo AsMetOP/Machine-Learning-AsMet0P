@@ -77,5 +77,30 @@ The goal of this repository is **conceptual clarity + hands-on implementation**.
   - Jupyter Notebook
   - VS Code
 - **Version Control:** Git & GitHub
+## 🚀 How to Use This Repository
+- Go through **Notes** for theory and intuition
+- Explore **Implementations** for code from scratch
+- Run notebooks/scripts to understand experiments
+- Track progress using the table above
 
-## 📂 Repository Structure
+---
+
+## 🌱 Ongoing Work
+- Adding visual explanations
+- Improving code modularity
+- Including mini-projects
+- Enhancing documentation
+
+---
+
+## 🤝 Contributing
+This is a personal learning repository, but suggestions, improvements, and discussions are always welcome.
+
+---
+
+## ⭐ Acknowledgements
+Special thanks to **CampusX** for providing structured and high-quality Machine Learning content.
+
+---
+
+📌 *Learning never stops. This repository grows as I grow.*
