@@ -5,7 +5,6 @@ This repository documents my **Machine Learning learning journey**.
 It contains **structured notes, concept explanations, algorithm implementations from scratch, experiments, and practice work** as I build a strong foundation in Machine Learning.
 
 The goal of this repository is **conceptual clarity + hands-on implementation**.
-
 ---
 
 ## 📌 Repository Objectives
