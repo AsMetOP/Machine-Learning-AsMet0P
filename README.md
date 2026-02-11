@@ -1,6 +1,6 @@
 # 📘 Machine Learning Journey w/ AsMet0P
 
-Welcome! 👋  
+Welcome! 👋   
 This repository documents my **Machine Learning learning journey**.  
 It contains **structured notes, concept explanations, algorithm implementations from scratch, experiments, and practice work** as I build a strong foundation in Machine Learning.
 
